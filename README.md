@@ -1,7 +1,8 @@
 Pre-Requisites
 
 Execution Flow
-Step 1: clone Ansible repo
+Step 1: clone python repo 
+
 $git clone http://github.com/akhilvaka2/python.git
 
 Step 2: Run python 
