@@ -4,7 +4,7 @@ Execution Flow
 
 Step 1: clone python repo 
 
-$git clone
+$git clone https://github.com/srinivasfsorg/python.git
 
 Step 2: Run python 
 
